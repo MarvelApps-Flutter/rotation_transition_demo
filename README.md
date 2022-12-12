@@ -1,16 +1,36 @@
-# rotation_transition_module
+# Rotation Transition Demo
 
-A new Flutter project.
+A flutter app showcasing the rotation transition animation effect.
 
-## Getting Started
+ # Demo
+  <table>
+  <tr>
+  <td><img src="https://github.com/MarvelApps-Flutter/rotation_transition_demo/blob/master/working_demo/rotation.gif" height="480px"></td>
+    </tr>
+  </table>
 
-This project is a starting point for a Flutter application.
+# Android Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/rotation_transition_demo/blob/master/screenshots/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/rotation_transition_demo/blob/master/screenshots/android/android2.png" height="480px"></td>
+  </tr>
+ </table>
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+</br>
+
+# IOS Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/rotation_transition_demo/blob/master/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/rotation_transition_demo/blob/master/screenshots/ios/ios2.png" height="480px"></td>
+  </tr>
+ </table>
+ 
+
+
